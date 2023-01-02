@@ -1,6 +1,6 @@
 import type { ConfigValueRetriever, Definitions } from '../config-retriever'
-import type { AsyncState } from '../use-async'
-import { useImmediateAsync } from '../use-async'
+import type { AsyncState } from 'react-typescript-use-async'
+import { useImmediateAsync } from 'react-typescript-use-async'
 import type { UnwrapDefinitionValue } from '../config-retriever'
 import { useEffect, useState } from 'react'
 

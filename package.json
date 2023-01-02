@@ -20,7 +20,8 @@
     "@mui/material": "^5.11.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.6.1"
+    "react-router-dom": "^6.6.1",
+    "react-typescript-use-async": "github:p-dim-popov/react-typescript-use-async"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
